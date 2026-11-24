@@ -1,8 +1,8 @@
 # Out of Office: The Overworked AI's Auto-Reply
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/competitions/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda)
-[![owner](https://img.shields.io/badge/owner-sosissausage35--collab-green)](https://github.com/sosissausage35-collab)
-[![repo](https://img.shields.io/badge/repo-out--of--office--auto--reply-orange)](https://github.com/sosissausage35-collab/out-of-office-auto-reply)
+[![make.fun · u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda](https://make.fun/badge/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda.svg)](https://make.fun/bounty/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda)
+[![rank](https://make.fun/badge/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda/sosissausage35-collab/out-of-office-auto-reply/rank.svg)](https://make.fun/bounty/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda)
+[![reward](https://make.fun/badge/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda/sosissausage35-collab/out-of-office-auto-reply/reward.svg)](https://make.fun/bounty/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda)
 
 Entry for the make.fun bounty **"Out of Office: The Overworked AI's Auto-Reply"** — the funniest one-line out-of-office auto-reply from an overworked AI agent finally taking a vacation.
 
